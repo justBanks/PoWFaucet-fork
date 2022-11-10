@@ -1,6 +1,7 @@
 # PoWFaucet
 
-Proof of Work Faucet for EVM chains
+Proof of Work Faucet for EVM chains  
+https://goerli-faucet.pk910.de/
 
 # Why
 
